@@ -8,4 +8,5 @@ description = "Audio stack behind Caldera."
 
 [dependencies]
 caldera-bindings = "0.0.2"
+lazy_static = "1.3.0"
 
