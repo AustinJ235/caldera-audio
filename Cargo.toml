@@ -3,9 +3,9 @@ name = "caldera-audio"
 version = "0.0.0"
 authors = ["Austin Johnson <me@austinj.me>"]
 edition = "2018"
+license = "MIT"
+description = "Audio stack behind Caldera."
 
 [dependencies]
 caldera-bindings = "0.0.2"
-license = "MIT"
-description = "Audio stack behind Caldera."
 
