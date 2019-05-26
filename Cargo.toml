@@ -1,0 +1,11 @@
+[package]
+name = "caldera-audio"
+version = "0.0.0"
+authors = ["Austin Johnson <me@austinj.me>"]
+edition = "2018"
+
+[dependencies]
+caldera-bindings = "0.0.2"
+license = "MIT"
+description = "Audio stack behind Caldera."
+
